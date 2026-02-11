@@ -51,7 +51,7 @@ const developers: DevelopersByTeam = {
       name: 'Amir Alam',
       role: 'Frontend Developer',
       department: 'Computer Science & Engineering',
-      image: '/images/amirxn.jpeg',
+      image: '/images/amiralam.jpeg',
       bio: 'Former WeCan Vice-President & Frontend developer with expertise in React and Next.js.',
       socialLinks: {
         linkedin: 'https://www.linkedin.com/in/amir-alam-a58b28257/',
